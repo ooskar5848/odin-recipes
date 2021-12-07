@@ -1,0 +1,23 @@
+h1 {
+    font-size: 24px;
+    text-align: left;
+}
+
+img {
+    float: left;
+    width: 40%;
+    }
+
+#firsttext {
+    font-size: 24px;
+    font-family: Tahoma;
+}
+
+*{
+    background-color: bisque;
+}
+
+.links {
+    font-size: 22px;
+    text-align: right;
+}
